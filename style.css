@@ -67,8 +67,12 @@ html {
   .about p{
     font-size: 20px;
   }
-  .about aside {
+  .about img {
     float: left;
+    width: 850px;
+    padding-top:10px;
+    padding-left: 20px
+    
   }
   .gallery {
     clear: both;
