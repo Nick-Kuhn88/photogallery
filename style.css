@@ -64,6 +64,9 @@ html {
   .about h2 {
     font-size: 40px;
   }
+  .about p{
+    font-size: 20px;
+  }
   .about aside {
     float: left;
   }
