@@ -37,6 +37,10 @@ html {
     font-size: 20px;
     color: #ffffff;
   }
+  nav a {
+    text-decoration: none;
+    color: #ffffff;
+  }
   nav a:hover {
     color: #007d7b;
   }
