@@ -75,6 +75,8 @@ nav a:hover {
 }
 .about p{
     font-size: 20px;
+    padding-right: 5px;
+    padding-top: 10px;
 }
 .about img {
   float: left;
@@ -91,7 +93,13 @@ nav a:hover {
 .gallery p {
   font-size: 20px;
   color: #000000;
-  margin-bottom: 0px;
+}
+.gallery h2 {
+  padding-top: 5px;
+}
+.gallery h2,p {
+  margin-bottom: 5px;
+  margin-left: 5px;
 }
 table {
   margin-top: 0 auto;
