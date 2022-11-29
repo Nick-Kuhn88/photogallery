@@ -83,11 +83,12 @@ nav a:hover {
   width: 850px;
   height: 250px;
   padding-top:10px;
-  padding-left: 20px
+  padding-left: 10px
 }
 .gallery {
   clear: both;
-  padding-left: 20px;
+  padding-left: 5px;
+  padding-right: 5px;
   margin: 0 auto;
 }
 .gallery p {
@@ -112,7 +113,7 @@ td {
   width: 420px;
   height: 281px;
   position: relative;
-/*   padding: 10px; */
+  padding: 5px;
 }
 td > img {
   width: 420px;
@@ -127,20 +128,20 @@ td > img {
 .chile, .guat, .iran, .rocky, .usa, .wyoming {
   position: absolute;
   top: 10px;
-  left: 5px;
+  left: 10px;
   color: #ffffff;
 }
 .hawaii, .ireland, .moab, .uk {
   position: absolute;
   color: #ffffff;
   bottom: 10px;
-  right: 5px;
+  right: 10px;
 }
 .italy, .switz {
   position: absolute;
   color: #ffffff;
   bottom: 10px;
-  left: 5px;
+  left: 10px;
 }
 footer {
   clear: both;
